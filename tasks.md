@@ -1,3 +1,4 @@
-1 moya zadacha
-2 zadacha
-3 nezadacha
+Задача 1
+Задача 3 неверная
+Незадача 3
+main
